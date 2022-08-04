@@ -3,7 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Android/Workspace/L12/DemoDialog/app/src/main/res/layout/activity_main.xml" value="0.17552083333333332" />
+        <entry key="..\:/Android/Workspace/L12/DemoDialog/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Android/Workspace/L12/DemoDialog/app/src/main/res/layout/input.xml" value="0.1796875" />
+        <entry key="..\:/Android/Workspace/L12/DemoDialog/app/src/main/res/layout/input1.xml" value="0.10208333333333333" />
       </map>
     </option>
   </component>
